@@ -214,11 +214,13 @@ a{ text-decoration: none;
 }
 .items{
     max-width: 90%;
+    min-width: 500px;
     padding: 30px 10px;
     border-radius: 10px;
     text-align: center;
     background-color: #e78b4d;
-}
+    min-height: 200px;
+    }
 .items p,h1{
     color: black;
 }
